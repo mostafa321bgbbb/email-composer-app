@@ -1,0 +1,7 @@
+{
+  "name": "email-composer-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
